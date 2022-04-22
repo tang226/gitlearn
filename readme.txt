@@ -10,3 +10,4 @@ I'm doing my work..
 test merge
 continue test merge.
 
+test amend
