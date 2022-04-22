@@ -7,3 +7,5 @@ Creating a new branch is quick AND simple.
 Git add merge.
 I'm doing my work..
 test merge
+continue test merge.
+
